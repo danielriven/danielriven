@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Dan Iven (@danielriven)
-- 👀 I’m interested in learning new things
+- Hi, I’m Dan Iven (@danielriven)
+- I’m interested in learning new things
 
 <!---
 danielriven/danielriven is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
